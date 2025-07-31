@@ -3,6 +3,13 @@
 **Enabling rapid, safe public drone pilots for infrastructure and first response—accountable, open, and privacy‑centric.**
 
 ---
+> **Why it matters:**  
+> - **Faster bridge fixes & safer roads** (drone inspections in minutes, not weeks)  
+> - **Quicker search-and-rescue** (find lost hikers or fire victims in half the time)  
+> - **Rural first-responders get cutting-edge tools** without breaking local budgets  
+> - **Built-in privacy protections**: 30-day auto-delete, warrant-only face ID  
+> - **Open dashboards** so the public sees every flight and audit
+---
 
 ## Overview
 
