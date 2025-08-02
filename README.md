@@ -56,7 +56,7 @@ The **National Public Drone Infrastructure & First Responder Pilot Act (NP‑DIR
 
 ## DOI
 
-[Gallegos, Lucas. *National Public Drone Infrastructure & First Responder Pilot Act (NP‑DIRPA)*. Zenodo, 2025.](https://doi.org/10.5281/zenodo.16719465)
+[Gallegos, Lucas. *National Public Drone Infrastructure & First Responder Pilot Act (NP‑DIRPA)*. Zenodo, 2025.](https://doi.org/10.5281/zenodo.16720731)
 
 ---
 
